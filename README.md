@@ -1,2 +1,2 @@
-# goit-markup-hw-o1
-first homework
+# goit-markup-hw-01
+Demo course
